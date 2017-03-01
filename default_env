@@ -1,0 +1,11 @@
+#A copier en .env avant de faire des modifications
+APP_KEY=DEFAULT_KEY
+APP_ENV=local
+APP_DEBUG=true
+
+DB_HOST=localhost
+DB_DATABASE=website
+DB_USERNAME=website
+DB_PASSWORD=website
+
+BASE_URL=http://localhost/~user/mind-up-website/public/
